@@ -1,3 +1,3 @@
-# Hello , Checkout my Todo app 🙂🙂🙂
+# Hello , Checkout the new Todo APP 🙂🙂🖤
 
-Click the [link](https://clever-lumiere-ff636c.netlify.app/).
+Click the [link](https://todobazilnizam.netlify.app/).
